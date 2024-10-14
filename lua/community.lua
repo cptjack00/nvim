@@ -6,6 +6,5 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.colorscheme.cyberdream-nvim" },
-  { import = "astrocommunity.workflow.hardtime-nvim" },
   -- import/override with your plugins folder
 }
